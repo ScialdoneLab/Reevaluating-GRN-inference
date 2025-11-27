@@ -1,0 +1,12 @@
+.DS_Store
+/data
+artifacts
+figures
+models
+wandb
+**/__pycache__
+**/__MACOSX
+**/processed
+/raw
+*.pdf
+notebooks/data
